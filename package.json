@@ -1,0 +1,20 @@
+{
+  "name": "zhengxiang_streamflix",
+  "version": "1.0.0",
+  "description": "You will only need one file, ie, your node module, for this assignment.",
+  "homepage": "https://github.com/alexxx123-alex/ZhengXiang_StreamFlix#readme",
+  "bugs": {
+    "url": "https://github.com/alexxx123-alex/ZhengXiang_StreamFlix/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxx123-alex/ZhengXiang_StreamFlix.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
